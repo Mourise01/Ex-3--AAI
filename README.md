@@ -1,5 +1,5 @@
 <H3>NAME: MOURISE JANE S</H3>
-<H3>REG NO:212222230085</H3>
+<H3>REG NO: 212222230085</H3>
 <H3>Experiment 3</H3>
 <H3>DATE:07.09.2024</H3>
 <H1 ALIGN =CENTER> Implementation of Approximate Inference in Bayesian Networks
